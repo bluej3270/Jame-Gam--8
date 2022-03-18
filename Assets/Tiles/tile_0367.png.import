@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/tile_0367.png-da93c25075643256f0d83b8b538ecb8b.stex"
+path="res://.import/tile_0367.png-64da43c78e0718170e829b5cc1d471d6.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://platformerart_pixelredux_2/Tiles/tile_0367.png"
-dest_files=[ "res://.import/tile_0367.png-da93c25075643256f0d83b8b538ecb8b.stex" ]
+source_file="res://Assets/Tiles/tile_0367.png"
+dest_files=[ "res://.import/tile_0367.png-64da43c78e0718170e829b5cc1d471d6.stex" ]
 
 [params]
 
@@ -20,7 +20,7 @@ compress/hdr_mode=0
 compress/bptc_ldr=0
 compress/normal_map=0
 flags/repeat=0
-flags/filter=true
+flags/filter=false
 flags/mipmaps=false
 flags/anisotropic=false
 flags/srgb=2
@@ -31,5 +31,5 @@ process/invert_color=false
 process/normal_map_invert_y=false
 stream=false
 size_limit=0
-detect_3d=true
+detect_3d=false
 svg/scale=1.0

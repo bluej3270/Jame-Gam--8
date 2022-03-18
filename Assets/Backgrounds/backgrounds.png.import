@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/backgrounds.png-d0b0a44f2df5666d324e2379a54fd946.stex"
+path="res://.import/backgrounds.png-d4cc9579c4ed5f5ac79ee357b5a8052f.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://platformerart_pixelredux_2/Backgrounds/backgrounds.png"
-dest_files=[ "res://.import/backgrounds.png-d0b0a44f2df5666d324e2379a54fd946.stex" ]
+source_file="res://Assets/Backgrounds/backgrounds.png"
+dest_files=[ "res://.import/backgrounds.png-d4cc9579c4ed5f5ac79ee357b5a8052f.stex" ]
 
 [params]
 

@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/tilemap_packed.png-a162f0d9cbdca7949778da9aa7dcb9f1.stex"
+path="res://.import/tilemap_packed.png-03eaaee116064d2a7627e1d08b7efffb.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://platformerart_pixelredux_2/Tilemap/tilemap_packed.png"
-dest_files=[ "res://.import/tilemap_packed.png-a162f0d9cbdca7949778da9aa7dcb9f1.stex" ]
+source_file="res://Assets/Tilemap/tilemap_packed.png"
+dest_files=[ "res://.import/tilemap_packed.png-03eaaee116064d2a7627e1d08b7efffb.stex" ]
 
 [params]
 
